@@ -21,7 +21,7 @@ Pomodoro Timer is a productivity tool designed to help users manage their time e
 
 ## 🚀 Live Demo
 
-Check out the live version here: **[https://pomodoro.dimmm.my.id/](https://pomodoro.dimmm.my.id/)**
+Check out the live version here: **[https://pomodorotimer.dimmm.my.id/](https://pomodorotimer.dimmm.my.id/)**
 
 ---
 
@@ -43,7 +43,7 @@ npm install
 ### **3️⃣ Run the Application**
 
 ```sh
-npm run build
+npm run dev
 ```
 
 Open in your browser: **[http://localhost:5173](http://localhost:5173)**
