@@ -31,7 +31,7 @@ Check out the live version here: **[https://pomodoro.dimmm.my.id/](https://pomod
 
 ```sh
 git clone https://github.com/Dimmlul/PomodoroTimer.git
-cd Talkatry-Tailwind
+cd PomodoroTimer
 ```
 
 ### **2️⃣ Install Dependencies**
