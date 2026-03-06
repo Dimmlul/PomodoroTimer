@@ -21,7 +21,7 @@ Pomodoro Timer is a productivity tool designed to help users manage their time e
 
 ## 🚀 Live Demo
 
-Check out the live version here: **[https://pomodorotimer.dimmm.my.id/](https://pomodorotimer.dimmm.my.id/)**
+Check out the live version here: **[https://pomodorotimer-react.vercel.app](https://pomodorotimer-react.vercel.app)**
 
 ---
 
@@ -30,8 +30,8 @@ Check out the live version here: **[https://pomodorotimer.dimmm.my.id/](https://
 ### **1️⃣ Clone Repository**
 
 ```sh
-git clone https://github.com/Dimmlul/PomodoroTimer.git
-cd PomodoroTimer
+git clone https://github.com/Dimmlul/PomodoroTimer-React.git
+cd PomodoroTimer-React
 ```
 
 ### **2️⃣ Install Dependencies**
